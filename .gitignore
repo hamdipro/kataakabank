@@ -1,0 +1,24 @@
+.idea
+
+*.class
+*.jar
+hs_err_pid*
+
+target/
+dependency-reduced-pom.xml
+
+.settings/
+.metadata
+.classpath
+.project
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
